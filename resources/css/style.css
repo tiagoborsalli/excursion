@@ -1,0 +1,60 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    max-width: 1200px;
+    margin: auto;
+}
+header {
+    padding: 50px 0;
+}
+footer span,header span {
+    font-weight: normal;
+    font-size: 3.125rem;
+}
+
+video {
+    padding: 20px 0;
+}
+
+main {
+    display: block;
+    padding: 0 0 10px 0;
+}
+
+main span {
+    font-weight: 300;
+    font-size: 3.125rem;
+    line-height: 2;
+}
+
+main img {
+    padding: 20px 0;
+}
+
+.soon span {
+    font-size: 1rem;
+    color: aquamarine;
+    text-decoration: underline;
+}
+
+#excursion {
+    font-size: 1.3125rem;
+    color: gray
+
+}
+
+footer {
+    padding-bottom: 30px;
+}
+
+footer img {
+    padding: 20px 0;
+}
+
+p.copyright {
+    text-align: right;
+    color: gray;
+}
+ 
